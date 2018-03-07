@@ -1,9 +1,6 @@
 """Math functions for calculator."""
 
 
-"""Math functions for calculator."""
-
-
 def add(num1, num2):
     """Return the sum of the two inputs."""
 
